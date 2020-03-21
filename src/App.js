@@ -1,26 +1,13 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+// import Ex01 from './Ex01'
+// import Ex02 from './Ex02'
+// import Ex03 from './Ex03'
+// import Ex04 from './Ex04'
+// import Ex05 from './Ex05'
+
+import Ex05 from './Ex05'
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+  return Ex05()
 
+}
 export default App;
