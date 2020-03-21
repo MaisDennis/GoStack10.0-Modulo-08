@@ -4,6 +4,8 @@
 
 React Hooks: useState, useEffect, useMemo, useCallback
 
+Criar uma lista de tecnologias com input e botão.
+
 ##  2. Criando o projeto
 
 1.  Configurando a estrutura
